@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">yd-example</string>
+    <string name="enter_url">Enter url</string>
+    <string name="get_html">Get HTML</string>
+</resources>
